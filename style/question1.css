@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(15 23 42);
+    background-position: center;
+    background-size: cover;
+}
+.logo {
+    top:10%;
+    margin: 0 50%;
+    width: 40%;
+    height: auto;
+    border-radius: 5%;
+    border: 1%   solid rgb(16, 97, 0);
+    opacity: 1;
+    transition: all 0.5s;
+    transform: scale(1);   
+}
